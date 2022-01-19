@@ -12,27 +12,30 @@ In this project, you are tasked to implement a web solution based on MERN stack 
 Update ubuntu
 *sudo apt update*
 
-img
+<img width="867" alt="apt updaate" src="https://user-images.githubusercontent.com/51254648/150159501-430e488a-8937-4eb4-beaf-874e0b58b972.png">
 
 Upgrade ubuntu
 *sudo apt upgrade*
 
-img
+<img width="1269" alt="apt upgrade" src="https://user-images.githubusercontent.com/51254648/150159520-52eca013-f10d-481b-a015-29a78f87d24a.png">
 
 Lets get the location of Node.js software from Ubuntu repositories.
 *curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -*
 
-img
+<img width="1220" alt="locate nodejs" src="https://user-images.githubusercontent.com/51254648/150159524-b1748f86-e77b-42ef-8edc-2115407b68a8.png">
 
 Install Node.js on the server
 *sudo apt-get install -y nodejs*
 
-img
+<img width="775" alt="Install nodejs" src="https://user-images.githubusercontent.com/51254648/150159528-071804a8-c10d-4983-98d4-88d5d774a1e4.png">
 
 Verify the node installation with these commands 
 *node -v* & *npm -v*
 
-img
+<img width="257" alt="verify node" src="https://user-images.githubusercontent.com/51254648/150159530-87d19a58-5ca8-4a20-8b18-3e0e5442afe3.png">
+
+
+
 
 ##### Application Code Setup
 
@@ -41,7 +44,8 @@ Create a new directory for your To-Do project:
 Run the command below to verify that the Todo directory is created with ls command
 ls
 
-img
+<img width="264" alt="Create Todo dir" src="https://user-images.githubusercontent.com/51254648/150159532-04482223-65c5-4e5f-ac24-7069f4cf3e0f.png">
 
 Change the current directory to Todo directory and use the command *npm init* to initialise your project, so that a new file named package.json will be created.
 
+<img width="582" alt="init project" src="https://user-images.githubusercontent.com/51254648/150159535-70dfc326-6608-4f97-9a42-b630c54c28a7.png">
