@@ -318,5 +318,3 @@ After that open your ListTodo.js *vi ListTodo.js* and paste the code below
   
 
 
-  
-<img width="1264" alt="Todo app" src="https://user-images.githubusercontent.com/51254648/150437975-bfbecf2f-5cad-4380-8e2d-915ef29e32c0.png">
